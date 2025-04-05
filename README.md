@@ -1,2 +1,2 @@
 # Certificates
-Certificated repository
+Certificates repository
